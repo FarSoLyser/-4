@@ -6,7 +6,11 @@
 
 $dA=Fdx=pSdx=pdV$
 
+![](img/Screenshot_3.png)
+
 $A=\int \limits_{V_{1}}^{V_{2}}pdV$
+
+![](img/Screenshot_4.png)
 
 $A=p(V_{2}-V_{1})=p\Delta{V}$
 
@@ -31,6 +35,8 @@ $A=\frac{m}{u}R(T_{2}-T_{1}$
 $\delta{U}=dU+pdV$
 
 # 2) Изохорный процесс
+
+![](img/Screenshot_5.png)
 
 При изохорном процессе постоянным остается
 объем газа (V = const), следовательно, dV = 0 и никакой работы при таком
